@@ -1,5 +1,6 @@
 Wifite
 ======
+!NO WINDOWS DOWNLOAD!
 
 This repo is a complete re-write of [`wifite`](https://github.com/Hudylog/wifitecracking.git) a Python script for auditing wireless networks.
 
